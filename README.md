@@ -38,4 +38,4 @@ This repository contains materials for the Recommender Systems course taught at 
 - Alena Zaytseva - lectures
 - [Alexey Krasilnikov](https://github.com/KrasilnikovAV) - seminars, homeworks
 - [Artem Matveev](https://github.com/matfu-pixel) - seminars, homeworks
-- Vladimir Baikalov - seminars, homeworks
+- [Vladimir Baikalov](https://github.com/NonameUntitled) - seminars, homeworks
