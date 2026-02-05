@@ -1,4 +1,0 @@
-polars
-torch>=2.0.0
-tqdm
-scikit-learn
