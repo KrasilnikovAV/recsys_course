@@ -7,16 +7,19 @@ This repository contains materials for the Recommender Systems course taught at 
 - Week 1: Intro
     - Lecture: Course overview and organizational details, intro to Recommender Systems problem
     - Seminar: Basic recommenders, user-item latent space
-- To be announced...
+- Week 2: Candidate generation & metrics
+    - Lecture: RecSys metrics & candidate generation: classic ML, ANN, mixing
+    - Seminar: Yambda contest overview & baseline solution
+- To be announced
 
 
 ## Staff
 
-- [Daniil Tkachenko](https://github.com/deadpadre) - lectures
-- [Kirill Khrylchenko](https://github.com/KhrylchenkoKirill) - lectures
-- [Roma Nigmatullin](https://github.com/rmnigm) - seminars, homeworks
-- [Alexey Krasilnikov](https://github.com/KrasilnikovAV) - seminars, homeworks
-- [Artem Matveev](https://github.com/matfu-pixel) - seminars, homeworks
-- [Vladimir Baikalov](https://github.com/NonameUntitled) - seminars, homeworks
-- [Vlad Tytskiy](https://github.com/Tytskiy) - seminars, homeworks
-- Ruslan Kuliev - seminars
+- [Daniil Tkachenko](https://github.com/deadpadre)
+- [Kirill Khrylchenko](https://github.com/KhrylchenkoKirill)
+- [Roma Nigmatullin](https://github.com/rmnigm)
+- [Alexey Krasilnikov](https://github.com/KrasilnikovAV)
+- [Artem Matveev](https://github.com/matfu-pixel)
+- [Vladimir Baikalov](https://github.com/NonameUntitled)
+- [Vlad Tytskiy](https://github.com/Tytskiy)
+- Ruslan Kuliev
