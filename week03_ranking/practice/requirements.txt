@@ -1,0 +1,7 @@
+polars
+scipy
+scikit-learn
+duckdb
+catboost
+tqdm
+click
