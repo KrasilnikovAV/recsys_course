@@ -10,7 +10,10 @@ This repository contains materials for the Recommender Systems course taught at 
 - Week 2: Candidate generation & metrics
     - Lecture: RecSys metrics & candidate generation: classic ML, ANN, mixing
     - Seminar: Yambda contest overview & baseline solution
-- To be announced
+- Week 3: Ranking, diversity & metrics
+    - Lecture: reranking - losses, algorithms, metrics; diversity control and MRR / DPP
+    - Seminar: classic algorithms (MF, SLIM, EASE); ranking - pool building, undersampling, composite targets
+- To be added
 
 
 ## Staff
