@@ -13,7 +13,17 @@ This repository contains materials for the Recommender Systems course taught at 
 - Week 3: Ranking, diversity & metrics
     - Lecture: reranking - losses, algorithms, metrics; diversity control and MRR / DPP
     - Seminar: classic algorithms (MF, SLIM, EASE); ranking - pool building, undersampling, composite targets
-- To be added
+- Week 4: Deep learning for RecSys & neural candidate generation
+    - Lecture: two-tower architecture, softmax model & sampled softmax loss, contrastive learning, negative sampling and LogQ
+    - Seminar: paper review on LogQ correction and negative sampling techniques
+- Week 5: Neural candidate generation, pt.2
+    - Lecture: cold start and long-tail, user / item encoding strategies, sequential models, beyond two-tower (GPU retrieval, generative retrieval)
+    - Seminar: aspects of training neural networks for RecSys
+- Week 6: Neural ranking, pt.1
+- Week 7: Neural ranking, pt.2
+- Week 8: System design for highload RecSys
+- ...
+- To be announced.
 
 
 ## Staff
