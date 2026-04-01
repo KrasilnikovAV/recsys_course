@@ -21,10 +21,14 @@ This repository contains materials for the Recommender Systems course taught at 
     - Seminar: aspects of training neural networks for RecSys
 - Week 6: Neural ranking, pt.1
 - Week 7: Neural ranking, pt.2
-- Week 8: System design for highload RecSys
-- ...
-- To be announced.
-
+- Week 8: System Design, pt. 1
+    - Lecture: Data architectures, logging, biases, data drift and monitoring
+- Week 9: System Design, pt. 2
+    - Runtime design, candidate funnel, GPU inference, data delivery, controlled degradation, cold start
+- Week 10: RecSys Transformers applications
+- Week 11: Reinforcement Learning in RecSys
+- Week 12: Case Studies of Yandex's services
+- Week 13: Trends in RecSys
 
 ## Staff
 
