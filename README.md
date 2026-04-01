@@ -39,4 +39,4 @@ This repository contains materials for the Recommender Systems course taught at 
 - [Artem Matveev](https://github.com/matfu-pixel)
 - [Vladimir Baikalov](https://github.com/NonameUntitled)
 - [Vlad Tytskiy](https://github.com/Tytskiy)
-- Ruslan Kuliev
+- [Ruslan Kuliev](https://github.com/kuliev-r)
